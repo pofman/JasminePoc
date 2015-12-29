@@ -6,6 +6,6 @@
       "demon": "nodemon"
     },
   "dependencies": {
-      "jasmine": "*",
-  },
+      "jasmine": "*"
+  }
 }
